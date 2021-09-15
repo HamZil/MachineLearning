@@ -1,6 +1,0 @@
-Trained on Faces
-'Ben Afflek'
-'Elton John'
-'Jerry Seinfield'
-'Madonna'
-'Mindy Kaling'
